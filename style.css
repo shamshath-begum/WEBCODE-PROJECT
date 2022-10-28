@@ -1,0 +1,45 @@
+#book{
+text-align: center;
+}
+#about{
+ text-align: center;   
+ background-color: rgb(192, 178, 240);
+ height: 510px;
+}
+#anchor{
+    text-decoration: none;
+   color: black;
+    
+}
+#names{
+    height: 200px;
+
+}
+h6{
+    display: inline;
+}
+h2{
+    text-align: center;
+}
+#isbns{
+    text-align: center;
+    background-color: rgb(224, 173, 201);
+    color: rgb(255, 255, 255);
+}
+#authors{
+    text-align: center;
+    background-color: rgb(224, 173, 201);
+    color: white;
+}
+#publishers{
+    background-color: rgb(231, 197, 224);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+#characters{
+    background-color: rgb(178, 190, 240);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
